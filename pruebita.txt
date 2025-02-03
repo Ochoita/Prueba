@@ -2,4 +2,4 @@ Soy una persona que vuelve a consolidar GIT
 Y anda apoyando a su amigo HANS, explicando las ramas
 y los estilos de trabajo, su interpretacion y el mapeado.
 Trabajando con dos ramas diferentes.
-Y a la vez, aplicaremos nuevas tecnologías como GitHub nuevamente.
+Y a la vez, aplicaremos nuevas tecnologías como GitHub nuevamente, pero solo con master.
