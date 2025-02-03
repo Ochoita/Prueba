@@ -3,3 +3,4 @@ Y anda apoyando a su amigo HANS, explicando las ramas
 y los estilos de trabajo, su interpretacion y el mapeado.
 Trabajando con dos ramas diferentes.
 Y a la vez, aplicaremos nuevas tecnologías como GitHub nuevamente, pero solo con master.
+Ahora tratamos de configurar el uso.
