@@ -4,3 +4,4 @@ y los estilos de trabajo, su interpretacion y el mapeado.
 Trabajando con dos ramas diferentes.
 Y a la vez, aplicaremos nuevas tecnologías como GitHub nuevamente, pero solo con master.
 Ahora tratamos de configurar el uso y el gmail.
+Y logramos finalizar nuestro cursito de GitHub :).
